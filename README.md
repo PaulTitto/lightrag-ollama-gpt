@@ -1,6 +1,6 @@
 
 
-## 🔹 Project Description
+## Project Description
 
 **LightRAG Replicate + Ollama Integration**
 
